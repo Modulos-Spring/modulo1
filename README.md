@@ -30,7 +30,7 @@ Também inclui um ambiente totalmente conteinerizado via **Docker Compose** (apl
 
 ## 📦 Tecnologias Utilizadas
 
-- Java 17+
+- Java 18
 - Spring Boot
 - MongoDB
 - Docker & Docker Compose
@@ -70,4 +70,7 @@ Usuário padrão:
 
 ---
 
+## 🔍 Análise de Código com SonarQube
 
+Relatório do módulo disponível aqui:
+👉 https://sonarcloud.io/organizations/modulos-spring/projects
